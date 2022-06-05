@@ -3,4 +3,4 @@ cd mcbot
 rm proxies.txt
 wget https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt
 mv socks4.txt proxies.txt
-java -jar MCBOT.jar TikTokLand2.aternos.me 47 pingjoin 300 40000
+java -jar MCBOT.jar TikTokLand2.aternos.me 47 binghandshake 300 40000
