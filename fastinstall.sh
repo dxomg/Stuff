@@ -1,4 +1,4 @@
-git clone https://github.com/dxomg/mcbot
+git clone https://github.com/dxomg/stuff
 cd mcbot
 rm proxies.txt
 wget https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt
